@@ -16,6 +16,8 @@ public class SPP2NLedezmaMT01P1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // NORMA ALEJANDRA LEDEZMA MARTINEZ - IIS
+        //A01411460
          System.out.println("Calculadora de promedio");
          //Variables
          int mat; //matricula
